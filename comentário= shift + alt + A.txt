@@ -1,0 +1,5 @@
+comentário= shift + alt + A
+
+fonte de dados HTML: W3SCHOOLS.COM ou MDN WEB
+
+print e recorte wind + shift + s 
